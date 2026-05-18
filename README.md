@@ -4,7 +4,7 @@ This contains all the resources for Flipper Zero (Chinese version). If there's e
    如果你正在为寻找Flipper Zero资源而烦恼，请来这里看看吧！网络钓鱼/干扰/断网/干扰频射/Bad KB/和高手们深爱的道闸C3+/
 
    以下为免责声明，下载本库的任何资源起生效！
-   Flipper Zero 资源免责声明
+   Flipper Zero 资源免责声明【本资源于2026年5月18日正式停更】
 1. 免责声明概述
 本声明旨在明确与在 GitHub 平台上发布的 Flipper Zero 相关资源（包括但不限于代码、文档、配置文件、示例项目等）相关的责任范围。GitHub 是一个代码托管和协作平台，用户在使用平台上发布的 Flipper Zero 资源时，需仔细阅读并理解本声明内容。
 
